@@ -1,0 +1,1 @@
+一个简单的httpclient的demo,支持重定向,chunk编码，压缩数据
